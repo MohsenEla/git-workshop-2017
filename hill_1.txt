@@ -1,6 +1,6 @@
 Maybe
 I can write
-a better Haiku
+ggg
 but what is a Haiku?
 
 Hello
